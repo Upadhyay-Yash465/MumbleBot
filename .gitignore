@@ -1,0 +1,42 @@
+# Environment variables
+.env
+*.env
+.env.*
+
+# Python virtual environments
+venv/
+.venv/
+env/
+activate/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Local data / output files
+Recording/Speech.txt
+Recording/path.txt
